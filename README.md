@@ -56,7 +56,7 @@ ipconfig
 
 2. On the other device, open a browser and go to:
 
-http://192.168.1.42:8080
+http://<your ip>:8080
 
 Note: Do not use localhost or 127.0.0.1 on another device — it will point to that device instead of the server.
 
